@@ -1,3 +1,3 @@
 def call() {
-   sh "mvn package compile install"
+   sh "mvn package compile "
 }
